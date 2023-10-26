@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/parrot/htb-vistual/Repo/Repo.ConsoleApp/Repo.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/home/parrot/htb-vistual/Repo/Repo.ConsoleApp/Repo.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/parrot/htb-vistual/Repo/Repo.ConsoleApp/Repo.ConsoleApp.csproj",
+        "projectName": "Repo.ConsoleApp",
+        "projectPath": "/home/parrot/htb-vistual/Repo/Repo.ConsoleApp/Repo.ConsoleApp.csproj",
+        "packagesPath": "/home/parrot/.nuget/packages/",
+        "outputPath": "/home/parrot/htb-vistual/Repo/Repo.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/parrot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/parrot/Downloads/dotnet-sdk-6.0.416-linux-x64/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
